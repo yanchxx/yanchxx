@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Yan Chuanhang 👋
 
-<!--
-**yanchxx/yanchxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Application Engineer | Creative Technologist | Full-Stack Developer**
 
-Here are some ideas to get you started:
+I specialize in bridging the gap between **Cutting-edge AI** and **Real-world Applications**. My passion lies in building intelligent, interactive, and visually stunning experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I focused on **AI-driven 3D innovation**, exploring the boundaries of Blender, Web3D, and Computer Vision.  
+Currently, I am fully pivoting to **AI Agents & LLM Applications**, aiming to build the next generation of intelligent software.
+
+---
+
+### 🚀 Featured Projects (The 3D+AI Era)
+
+Here are some of my explorations in combining AI algorithms with 3D graphics:
+
+| Project | Description | Preview |
+| :--- | :--- | :--- |
+| **🎥 [Ciney](https://yanchxx.github.io/ciney-website/)** | **Automated VFX & Compositing Pipeline.**<br>A workflow utilizing iPhone ARKit data (camera track, lighting, mesh) to automate rendering and VFX generation in Blender. | <img src="https://yanchxx.github.io/ciney-website/images/middle.webp" width="100%"> |
+| **🎵 [Visic](https://yanchxx.github.io/visic-website/)** | **3D Music Visualizer.**<br>An interactive tool that transforms uploaded audio into dynamic 3D visual experiences. | <img src="https://github.com/user-attachments/assets/81006f18-26c9-4c1b-814e-f6d38b49f935" width="100%"> |
+| **💃 [MoPA](https://github.com/yanchxx/MoPA)** | **Real-time 3D Character Animation in Blender.**<br>Leveraged `ROMP` algorithm to capture human motion from a webcam and drive 3D characters (Mixamo) in real-time. | <img src="https://camo.githubusercontent.com/024618e6d0b957fabfdffb7aa7d58141bbf30860fa60fe9a231358339000359c/68747470733a2f2f692e696d6775722e636f6d2f42474b6a446b722e676966" width="100%"> |
+| **🌐 [WOC](https://github.com/yanchxx/woc)** | **Web-based 3D Avatar Chatroom.**<br>A multiplayer virtual space where users control their 3D avatars via webcam, enabling real-time interaction and motion synchronization. | <img src="https://user-images.githubusercontent.com/38496769/190867768-6b84fd22-30ab-4a56-aa04-4e6b7c55275f.mp4" width="100%"> *(Click link to view video)* |
+
+
+---
+
+### 🌱 What's Next?
+
+I am now diving deep into **LLM Agents, RAG, and Multi-Agent Systems**. 
+
+I believe that the combination of **"Product Thinking"** and **"Engineering Depth"** is the key to unlocking the true potential of AI.
+
+📫 **Reach me at:** yanchxx@gmail.com
